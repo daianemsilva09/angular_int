@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'course-managerrrrr';
 
-  name: string = 'Johnnnnn';
+  name: string = 'Johnnnnnn';
 }
